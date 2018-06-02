@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Disco
+//  BluetoothChat
 //
-//  Created by Mitansh Shah  on 5/31/18.
-//  Copyright © 2018 DirtyBits. All rights reserved.
+//  Created by Bruno Macabeus Aquino on 15/03/17.
+//  Copyright © 2017 Bruno Macabeus Aquino. All rights reserved.
 //
 
 import UIKit
